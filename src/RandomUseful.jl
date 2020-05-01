@@ -1,5 +1,5 @@
 module RandomUseful
 
-greet() = print("Hello World!")
+include("fourier_diff.jl")
 
 end # module
